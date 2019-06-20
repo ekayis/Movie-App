@@ -23,9 +23,6 @@ class App extends Component {
 
 					<Route path='/movies' component={MoviesPage}></Route>
 
-          <hr />
-          <div>askldjfaslkdfjasldkfjsdlkf</div>
-
         </Container>
 
 				<Footer />
