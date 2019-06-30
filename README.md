@@ -1,6 +1,10 @@
-[Live Demo on Surge.sh](http://react-redux-movieapp.surge.sh/)
+# Movie App
 
-## Backend
-[Documentation](https://github.com/meseven/react-redux-egitim-seti/tree/master/react-redux-movie-app/backend)
+## React-Redux-NodeJs-mLabApi-SemanticUI
 
+Bilgisayarınızda çalıştırmak için
+
+`$ npm install`
+
+`$ npm start`
 
