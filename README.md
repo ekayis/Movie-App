@@ -1,4 +1,6 @@
-# Movie-App
-React Native Movie App
+[Live Demo on Surge.sh](http://react-redux-movieapp.surge.sh/)
 
-Detaylar Yakında :)
+## Backend
+[Documentation](https://github.com/meseven/react-redux-egitim-seti/tree/master/react-redux-movie-app/backend)
+
+

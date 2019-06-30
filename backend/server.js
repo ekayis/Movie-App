@@ -10,7 +10,7 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cors());
 dotenv.config();
 
-const dbUrl = "mongodb+srv://admin:ssdOsdd2010_@cluster0-ebmwf.mongodb.net/test?retryWrites=true&w=majority";
+const dbUrl = `mongodb://${process.env.DB_HOST}/${process.env.DB_NAME}`;
 
 const validate = data => {
   let errors = {};
